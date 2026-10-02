@@ -24,4 +24,16 @@ An intelligent daily weather report bot built with n8n that sends AI-generated w
 
 ---
 
+## 📸 Screenshots
+
+### n8n Workflow
+
+![n8n Workflow](Screenshots/workflow.jpg)
+
+### Telegram Weather Report
+
+![Telegram Weather Report](Screenshots/telegram_msg.jpg)
+
+---
+
 ## 📦 Workflow Overview
