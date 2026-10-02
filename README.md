@@ -34,8 +34,6 @@ The workflow runs automatically every morning, fetches live weather data, sends 
 
 ### Telegram Output
 
-![Telegram Weather Report](Screenshots/telegram_msg.jpg)her Report](Screenshots/telegram_msg.jpg)
+![Telegram Weather Report](Screenshots/telegram_msg.jpg)
 
 ---
-
-## 📦 Workflow Overview
