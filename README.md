@@ -24,15 +24,17 @@ An intelligent daily weather report bot built with n8n that sends AI-generated w
 
 ---
 
-## 📸 Screenshots
+## 📦 Workflow Overview
 
-### n8n Workflow
+The workflow runs automatically every morning, fetches live weather data, sends it to Gemini AI for report generation, and delivers the final weather update to Telegram.
+
+### Workflow
 
 ![n8n Workflow](Screenshots/workflow.jpg)
 
-### Telegram Weather Report
+### Telegram Output
 
-![Telegram Weather Report](Screenshots/telegram_msg.jpg)
+![Telegram Weather Report](Screenshots/telegram_msg.jpg)her Report](Screenshots/telegram_msg.jpg)
 
 ---
 
